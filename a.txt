@@ -2,3 +2,4 @@ git remote remove //삭제
 Git remote rename //이름 바꾸기 
 git push 
 let's try git fetch// 원격저장소를 일단 가져만 오기
+let's try git pull// pull이용해서 fetch 랑 merge 한번에 하기 
